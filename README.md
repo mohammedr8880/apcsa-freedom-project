@@ -2,16 +2,16 @@
 by Mohammed Rahman
 
 ## Context
-The “Freedom Project” for APCSA is all about X. The purpose of this blog is to X.
+The “Freedom Project” for APCSA is all about learning a tool by yourself and creating something with it. The purpose of this blog is to walk you through the steps it took for me to complete by project.
 
 ## Content
-For my project, I am making X. This blog will walk through my process of independently studying X in order to make X.
+For my project, I am making Discord bot. This blog will walk through my process of independently studying python in order to make a bot that saves your text.
 
 ## Links
 
-Product
+[Product](https://drive.google.com/file/d/1J6wT9yL1TBZ8WEXI0K_X9xEPFvyBMMx5/view?usp=sharing)
 
-Presentation
+[Presentation](https://docs.google.com/presentation/d/1Wsl0dtabdeO8bH_IWLLRCJ-HVZKLcegkh0JWfP3HaDw/edit?usp=sharing)
 
 ## Implications
 X
